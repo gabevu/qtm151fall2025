@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../assignment_2"
+		},
+		{
+			"path": "../../lecture_05"
+		},
+		{
+			"path": "../../Lecture_05 - lists and arrays"
+		},
+		{
+			"path": "../../Lecture_07 - loops"
+		},
+		{
+			"path": "../../Lecture_06 - Boolean variables"
+		}
+	],
+	"settings": {}
+}
